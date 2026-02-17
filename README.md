@@ -1,3 +1,3 @@
 Hii.. I am Aparna. M <br>
-The demo link - <a href = "https://aparna301002.github.io/Frontend-Development">DEmo</a><br>
-The demo link - <a href = "https://aparna301002.github.io/Frontend-Development/Tableex.html">DEmo</a>
+Simple HTML EG demo link - <a href = "https://aparna301002.github.io/Frontend-Development">Demo</a><br>
+TABLE & LISTEG- <a href = "https://aparna301002.github.io/Frontend-Development/Tableex.html">Demo</a>
